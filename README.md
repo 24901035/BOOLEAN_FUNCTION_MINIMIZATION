@@ -39,12 +39,15 @@ Developed by: RegisterNumber:*/
 
 
 **RTL realization**
+![Screenshot 2024-12-04 080641](https://github.com/user-attachments/assets/3cf458e2-9fe0-4fa0-97f6-e8a3c34b17e6)
 
 **Output:**
+![Screenshot 2024-12-04 080630](https://github.com/user-attachments/assets/d439a202-b7b0-4c86-b110-de3724f16a30)
 
 **RTL**
 
 **Timing Diagram**
+![Screenshot 2024-12-04 080613](https://github.com/user-attachments/assets/9d90edd3-775c-4edf-866f-eaca06f6ad73)
 
 **Result:**
 
